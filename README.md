@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Sanvedita Deshpande
 
 ## 🚀 About Me  
-🎓 **Postgraduate in Advanced Computer Science**  
-💼 Currently interning at **Indiba Business Solutions**, working with **VirtualBox, Home Assistant, and SQL for KPIs**.  
+🎓 **Postgraduate in Advanced Computer Science**   
 💡 Passionate about **Data Engineering**, **ETL Pipelines**, and **Big Data Processing**.  
 
 ## 🛠️ Tech Stack  
